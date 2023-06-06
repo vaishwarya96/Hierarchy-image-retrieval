@@ -38,8 +38,8 @@ The code automatically splits the dataset into train and validation.
 ## Inference
 To launch the inference, run
 ```
-python3 mahalanobis_calculation.py
+python3 main_img_retrieval.py
 ```
-This calculates the Mahalanobis distance and the prediction probability for both the in distribution and out of distribution dataset, and computes the metrics.
+This computes the hierarchy and performs image retrieval.
 
 
