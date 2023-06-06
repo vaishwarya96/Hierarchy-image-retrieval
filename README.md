@@ -1,6 +1,6 @@
-# MAPLE
+# Image retrieval using Visual Hierarchy
 
-Code for Mahalanobis-Distance-based Uncertainty Prediction for Reliable Classification
+Code for the paper "Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval"
   
 
 ## Dataset
