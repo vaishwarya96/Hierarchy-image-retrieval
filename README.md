@@ -42,4 +42,17 @@ python3 main_img_retrieval.py
 ```
 This computes the hierarchy and performs image retrieval.
 
+If you use this code, please cite the following paper:
 
+Aishwarya Venkataramanan, Martin Laviale, and Cédric Pradalier. "Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval." International Conference on Computer Vision Systems. Cham: Springer Nature Switzerland, 2023.
+
+```
+@inproceedings{venkataramanan2023integrating,
+  title={Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval},
+  author={Venkataramanan, Aishwarya and Laviale, Martin and Pradalier, C{\'e}dric},
+  booktitle={International Conference on Computer Vision Systems},
+  pages={422--431},
+  year={2023},
+  organization={Springer}
+}
+```
